@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "886436251970",
+    "firebase_url": "https://myprojectmeep.firebaseio.com",
+    "project_id": "myprojectmeep",
+    "storage_bucket": "myprojectmeep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886436251970:android:28e7beef223d2b0c",
+        "android_client_info": {
+          "package_name": "com.example.aleksei.meep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886436251970-5edn52tv0700ijkpra4oos2u3656n7og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU-MuMRtKJPb5pWVgpbExrfbGwhV3tFFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
